@@ -1,7 +1,5 @@
 package web_01;
 
-import web_02.Predator;
-
 public class Chocolate extends Product {
     private final Integer cocoa;
 
