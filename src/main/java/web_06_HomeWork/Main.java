@@ -1,3 +1,6 @@
+/*
+Реструктуризировать проект HomeWork с учетом теоретических основ SOLID’а
+ */
 package web_06_HomeWork;
 
 public class Main{
